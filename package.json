@@ -1,7 +1,7 @@
 {
-  "name": "my_project",
+  "name": "img_libs",
   "version": "1.0.0",
-  "description": "A generic skeleton typescript node app",
+  "description": "testing image conversion libraries",
   "main": "./src/app.ts",
   "type": "module",
   "scripts": {
